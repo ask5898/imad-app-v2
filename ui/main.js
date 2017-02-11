@@ -1,4 +1,4 @@
 console.log('Loaded!');
 
-var element=document.getElementbyId("text");
+var element=document.getElementById("text");
 element.innerHTML="KISS MY ASS";
