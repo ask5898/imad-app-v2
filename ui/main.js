@@ -1,3 +1,4 @@
 console.log('Loaded!');
 
-var element=document.getElementbyId("KISS MY ASS")
+var element=document.getElementbyId("text");
+element.innerHTML="KISS MY ASS"
