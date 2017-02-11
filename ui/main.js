@@ -6,7 +6,7 @@ element.innerHTML="KISS MY ASS";
 //move the image
 var img=document.getElementById("img");
 var marginLeft=0;
-function moveLeft() {
+function moveRight() {
     marginLeft=marginLeft+10;
     img.style.marginLeft=marginLeft+"px";
 }
